@@ -1,4 +1,5 @@
 # ErrantTerminal
+[PLEASE NOT: THIS PROJECT DOES USE GIT LFS FOR LARGE FILES]
 A small Unity desktop game prototype.
 
 Created as a one week prototype, this project was meant to implement
